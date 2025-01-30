@@ -32,7 +32,7 @@ IRCTC Booking System is a *full-stack web application* designed for train ticket
 
 
 
-### 🛠 Installation
+###  Installation
 
 1️⃣ *Clone the Repository*  
 ```bash
