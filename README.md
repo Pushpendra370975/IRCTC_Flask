@@ -9,8 +9,7 @@ IRCTC Booking System is a *full-stack web application* designed for train ticket
 - *Real-time Booking System*: Users can book available seats dynamically.
 - *RESTful API*: Well-structured endpoints for train and booking management.
 - *Database Integration*: PostgreSQL used for structured storage and queries.
-- *Docker Support*: Deployment ready with docker-compose.
-- *Test Suite*: API endpoints tested with pytest.
+
 
 ---
 
@@ -19,8 +18,7 @@ IRCTC Booking System is a *full-stack web application* designed for train ticket
 - *Frontend*: Flask (REST APIs)
 - *Backend*: Flask, SQLAlchemy, JWT Authentication
 - *Database*: PostgreSQL
-- *Deployment*: Docker, Docker Compose
-- *Testing*: Pytest
+
 
 ---
 
